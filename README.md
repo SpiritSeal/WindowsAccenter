@@ -7,7 +7,7 @@ Compiled to .exe for ease of use
 
 # How to Use this
 1. First, download and run Accenter.exe
-2. In order to type the characters, type in "({character}/)" and press space
+2. In order to type the characters, type in "({character}/)", replacing {character} with the character you want to modify, and press space
 
 # Here are all of the examples:
 (a/)::á
