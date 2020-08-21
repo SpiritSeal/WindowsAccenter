@@ -7,7 +7,7 @@ Compiled to .exe for ease of use
 
 # How to Use this
 1. First, download and run Accenter.exe
-2. In order to type the characters, type in the character you want to modify, followed by either a foreward slash (/), a backslash (\), or a backtick (`)
+2. In order to type the characters, type in the character you want to modify, followed by either a foreward slash (/), a backslash (\\), or a backtick (`)
 
 # Here are all of the conversions:
     a/::á
