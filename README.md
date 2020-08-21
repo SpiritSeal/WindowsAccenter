@@ -9,6 +9,7 @@ Compiled to .exe for ease of use
 1. First, download and run Accenter.exe
     * Note: if you shut down or restart your computer, you will need to run Accenter.exe again for the program to continue working
 2. In order to type the characters, type in the character you want to modify, followed by either a foreward slash (/), a backslash (\\), or a backtick (`)
+3. To disable (or reenable) the program, press the shortcut Windows Key+c
 # Here are all of the conversions:
     a/::á
     e/::é
