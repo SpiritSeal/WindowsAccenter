@@ -41,4 +41,4 @@ Compiled to .exe for ease of use
     u:/::ü
     u:`::ü
     u:\::ü
-### If you have any suggestions or comments, let me know at yssaketh@gmail.com
+### If you have any suggestions or comments, please [open an issue](https://github.com/SpiritSeal/WindowsAccenter/issues/new/choose)
